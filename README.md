@@ -12,7 +12,7 @@ This project explores a Heart Disease dataset using Python and Pandas. It focuse
 
 The dataset was obtained from Kaggle.
 
-# Dataset link: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+Dataset link: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
 ## Tools and Technologies
 - Python
