@@ -8,6 +8,12 @@ This project explores a Heart Disease dataset using Python and Pandas. It focuse
 - Perform data filtering using conditions.
 - Practice Python and Pandas for data analysis.
 
+## Dataset
+
+The dataset was obtained from Kaggle.
+
+# Dataset link: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+
 ## Tools and Technologies
 - Python
 - Pandas
